@@ -26,6 +26,9 @@ Causes I Care About
  Let's Connect
 
 
+
+
+
 📚 Tech Resources I Love (Frontend Focused)
 
 📖 Frontend Masters – Advanced courses on JavaScript, CSS, accessibility, and modern frameworks
@@ -50,16 +53,20 @@ Causes I Care About
 
 
 
+
+My Contacts 
 - 📧 Email: elechristacoal@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/christiana-osedi?
 
 
- Fun Fact
 
+
+ Fun Fact
 I am deeply passionate about using tech to amplify voices and solve real-life problems — especially in spaces where innovation meets purpose.
 
- Looking to Collaborate?
 
+
+ Looking to Collaborate?
 I am always open to meaningful collaborations — whether it is building tools, contributing to open source, mentoring, or volunteering on tech-for-good projects.
 
 Feel free to connect or drop me a message!
