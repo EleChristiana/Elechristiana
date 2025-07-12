@@ -6,7 +6,7 @@ About Me
 
 I'm a passionate and detail-oriented frontend developer with a strong interest in creating accessible, user-friendly web experiences. I enjoy turning ideas into responsive, interactive interfaces that make an impact.
 
-With a background in leading teams, supporting tech communities, and collaborating across diverse projects, I thrive on building solutions that are both functional and meaningful. I'm also a strong advocate for digital inclusion and believe in the power of technology to drive change — especially for underrepresented groups.
+With a background in leading teams, supporting tech communities, and collaborating across diverse projects, I thrive on building solutions that are both functional and meaningful. I'm also a strong advocate for digital inclusion and believe in the power of technology to drive change especially for underrepresented groups.
 
 
 What I am Focused On
