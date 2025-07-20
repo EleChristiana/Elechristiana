@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Christiana Eleojo Osedi 👋</h1>
-<h3 align="center">Frontend Developer | Digital Literacy And STEM ADvocate | Community Builder</h3>
+<h3 align="center">Frontend Developer | Digital Literacy And STEM Advocate | Community Builder</h3>
 
 
 About Me
